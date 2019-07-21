@@ -8,4 +8,4 @@ In simple words, a linked list consists of nodes where each node contains a data
   
   - **ith_node** : This file contains a function which prints the ith node of the linked list.  
   
-  - deleting_i_node : This file contains a function which deleted the ith node of the linked list. 
+  - deleting_i_node : This file contains a function which deletes the ith node of the linked list. 
