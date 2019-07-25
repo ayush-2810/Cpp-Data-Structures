@@ -8,4 +8,6 @@ In simple words, a linked list consists of nodes where each node contains a data
   
   - **ith_node** : This file contains a function which prints the ith node of the linked list.  
   
-  - **deleting_ith_node** : This file contains a function which deletes the ith node of the linked list. 
+  - **deleting_ith_node** : This file contains a function which deletes the ith node of the linked list.  
+  
+  - palindrome_check : This file contains a function which checks whether the linked list is palindrome or not.
