@@ -12,4 +12,4 @@ In simple words, a linked list consists of nodes where each **node** contains a 
   
   - **palindrome_check** : This file contains a function which checks whether the linked list is palindrome or not.  
   
-  - Duplicate_elimination : This file contains a function which removes/eliminate duplicates from the linked list.
+  - **Duplicate_elimination** : This file contains a function which removes/eliminate duplicates from the linked list.
