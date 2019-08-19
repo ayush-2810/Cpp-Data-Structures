@@ -19,3 +19,5 @@ A Graph consists of a finite set of **vertices(or nodes)** and set of Edges whic
 Graphs are used to solve many **real-life problems**. Graphs are used to represent networks. The networks may include paths in a city or telephone network or circuit network. Graphs are also used in social networks like linkedIn, Facebook. For example, in Facebook, each person is represented with a vertex(or node). Each node is a structure and contains information like person id, name, gender, locale etc.
 
    - **BFS** : This file contains the bfs traversal of the graph.BFS is level wise printing of the nodes.
+
+  - DFS : This file contains the dfs traversal of the graph.DFS is depth wise printing of the vertices.
