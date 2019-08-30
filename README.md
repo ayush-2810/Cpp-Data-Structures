@@ -22,4 +22,4 @@ Graphs are used to solve many **real-life problems**. Graphs are used to represe
 
   - **DFS** : This file contains the dfs traversal of the graph.DFS is depth wise printing of the vertices.
 
-  - **Kruskal's** Algorithim** : This algorithm is used for an undirected, connected and weighted graph, for implementing Minimum Spanning Tree (MST) of the graph.
+  - **Kruskal's Algorithim** : This algorithm is used for an undirected, connected and weighted graph, for implementing Minimum Spanning Tree (MST) of the graph.
