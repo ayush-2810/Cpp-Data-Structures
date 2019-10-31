@@ -1,5 +1,5 @@
 # Cpp-Data-Structures
-This repository contains **data structures** implemented  in **c++**.
+This repository contains **data** **structures** implemented  in **c++**.
 
 - **Linked List** : A linked list is a **linear data structure**, in which the elements are **not stored at contiguous memory locations**.  
 The elements in a linked list are **linked** using **pointers**.  
